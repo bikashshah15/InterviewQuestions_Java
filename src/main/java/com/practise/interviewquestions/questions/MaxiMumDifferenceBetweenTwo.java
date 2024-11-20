@@ -1,7 +1,8 @@
 package com.practise.interviewquestions.questions;
 /*
- *
+
  * Maximum Difference between Two Elements such that Larger Element Appears after the Smaller Element
+ * Find the maximum difference between two elements in an array such that the larger element comes after the smaller element. For example, given the array [2, 3, 10, 6, 4, 8, 1], the output should be 8 because the maximum difference is 10 - 2.
  * */
 
 public class MaxiMumDifferenceBetweenTwo {
